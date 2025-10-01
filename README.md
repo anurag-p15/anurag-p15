@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anurag Pandey
-- 🌱 I’m currently a student of K.J. Somaiya College of Engineering,Mumbai pursuing Computer Science.
+- 🌱 I’m currently a student of SBM NMIMS ,Mumbai pursuing MBA-Business Analytics
 - 💞️ Sports lover and trying to develop new skills in coding world.
 
 <!---
